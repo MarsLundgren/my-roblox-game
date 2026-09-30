@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project place file
 /my-roblox-game.rbxlx
 
@@ -7,7 +6,7 @@
 /*.rbxl.lock
 
 sourcemap.json
-=======
+
 # Compiled Lua sources
 luac.out
 
@@ -49,4 +48,3 @@ luac.out
 *.x86_64
 *.hex
 
->>>>>>> 8259f6590a6ef415979b9b0d4532d3d2f1479924
