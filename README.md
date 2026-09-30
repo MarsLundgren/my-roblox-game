@@ -15,3 +15,10 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+
+## Coin Dash
+Run around the arena and collect coins. Gold coins are worth more. Collected coins respawn elsewhere.
+
+- `src/shared/Config.luau` holds the tunable numbers (arena size, coin count, values, respawn delay).
+- `src/server/` builds the floor and spawn, spawns coins, and awards points (`leaderstats.Coins`).
+- `src/client/` shows the on-screen coin counter and spins/bobs the coins.
