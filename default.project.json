@@ -11,8 +11,8 @@
       "Server": {
         "$path": "src/server"
       },
-      "Test": {
-        "$path": "src/scripts/Test.server.luau"
+      "Shiganshina": {
+        "$path": "src/shiganshina"
       }
     },
     "StarterPlayer": {
